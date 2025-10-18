@@ -7,7 +7,7 @@
  **用于**
 主要为算法竞赛方面
 
-**注：很多引用或改编自其他源**
+**注：部分引用或改编自其他源，分析与抽象逻辑多为自己思考总结得出**
 参考：
 [OI WIKI](https://oi-wiki.org/)
 [Haotian-BiJi](https://github.com/ChrisKimZHT/Haotian-BiJi/tree/master)
